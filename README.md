@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Training repository
+Another useless repository for training. Nothing to see here.
